@@ -10,7 +10,7 @@
 аргументы, с которыми вызвалась и возвращаемое 
 значение. Функция test_1 в коде ниже также должна 
 отработаться без ошибок.
- Модуль [logger.py]()
+ Модуль [logger.py](https://github.com/MariaZamyatina/decorators/blob/master/logger.py)
 
 
 
@@ -19,9 +19,9 @@
 возвращаемое значение. Путь к файлу должен 
 передаваться в аргументах декоратора. 
 Функция test_2 должна 
-отработаться без ошибок. Модуль [logger2]()
+отработаться без ошибок. Модуль [logger2](https://github.com/MariaZamyatina/decorators/blob/master/logger2.py)
 
 - Применен написанный логгер к приложению из предыдущего д/з по 
 поиску вакансий 
-[web-scraping]().
+[web-scraping](https://github.com/MariaZamyatina/web-scraping/blob/master/main.py).
 
